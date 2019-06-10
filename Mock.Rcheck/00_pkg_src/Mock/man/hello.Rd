@@ -1,0 +1,12 @@
+\name{myFun}
+\alias{myFun}
+\title{myFunction}
+\usage{
+myFun()
+}
+\description{
+Prints
+}
+\examples{
+myFun(10)
+}

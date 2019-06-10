@@ -1,0 +1,13 @@
+Package: Mock
+Type: Package
+Title: Mock R package
+Version: 0.1.0
+Author: Jeffrey Shi <jjs9bf@virginia.edu>
+Maintainer: Jeffrey Shi <jjs9bf@virginia.edu>
+Description: Description
+License: LGPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr
+VignetteBuilder: knitr
+

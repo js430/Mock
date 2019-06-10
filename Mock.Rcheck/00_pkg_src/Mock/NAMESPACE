@@ -1,0 +1,2 @@
+export('myFun', 'myFun2')
+import('GenomeInfoDb')
